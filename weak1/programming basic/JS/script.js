@@ -1,0 +1,10 @@
+console.log(24 > 3);
+console.log(1 == 1 || 3 == 2 || 3 == 7);
+var x = 10;
+var y = x > 5 && x < 15;
+console.log(y);
+var a = 1;
+var b = 2;
+var c = a + b;
+console.log(c);
+var x = "abebe";
